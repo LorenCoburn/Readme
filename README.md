@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThoseOneProductions
 - 👀 I’m interested in ... HTML, Python, Swift, CSS
-- 🌱 I’m currently learning ... HTML
+- 🌱 I’m currently learning ... HTML & CSS
 - 💞️ I’m looking to collaborate on ... App Development Projects
 - 📫 How to reach me ... Thoseoneproductions@gmail.com
 
