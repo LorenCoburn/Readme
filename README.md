@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ThoseOneProductions
+- 👋 Hi
 - 👀 I’m interested in ... HTML, Python, Swift, CSS
 - 🌱 I’m currently learning ... HTML & CSS
-- 💞️ I’m looking to collaborate on ... App Development Projects
-- 📫 How to reach me ... Thoseoneproductions@gmail.com
+- 💞️ I’m looking to collaborate on ... cool shit.
+- 📫 How to reach me ... ???
 
 <!---
 ThoseOneProductions/ThoseOneProductions is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
