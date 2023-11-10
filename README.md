@@ -3,7 +3,9 @@
 - 💞️ I’m looking to collaborate on ... building apps, websites.
 - 📫 How to reach me ... lorencoburn.com
 
+BUILDING APPS 🔨
 
+Find me @ThoseOneProductions
 
 
 
