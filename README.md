@@ -1,11 +1,13 @@
 - 👋 Hi My name is Loren Monroe Coburn,
-- 👀 I’m interested in ... Python, Swift, Web Dev, APP Development
+- 👀 I’m interested in ... Python, T Swift, Web Dev, APP Development
 - 💞️ I’m looking to collaborate on ... building apps, websites.
 - 📫 How to reach me ... lorencoburn.com
 
 BUILDING APPS 🔨
 
 Find me @ThoseOneProductions
+
+- 11-10-2023
 
 
 
