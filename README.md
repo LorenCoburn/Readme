@@ -1,7 +1,7 @@
 - 👋 Hi My name is Loren Monroe Coburn,
 - 👀 I’m interested in ... Python, T Swift, Web Dev, APP Development
 - 💞️ I’m looking to collaborate on ... building apps, websites.
-- 📫 How to reach me ... lorencoburn.com
+- 📫 How to reach me ... lorenmcoburn.com
 
 BUILDING APPS 🔨
 
